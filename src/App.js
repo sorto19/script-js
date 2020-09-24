@@ -1,6 +1,6 @@
 import React from 'react';
 import {loadStripe} from '@stripe/stripe-js'
-import {Elements, CardElement ,useStripe, useElements} from '@stripe/react-stripe-js'
+import {Elements, CardElements,useStripe, useElements} from '@stripe/react-stripe-js'
 import './App.css';
 import "bootswatch/dist/lux/bootstrap.min.css";
 import axios from 'axios'
